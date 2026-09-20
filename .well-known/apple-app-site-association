@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "3DD29HQ63Q.local.cameron.jarvis.ios"
+        ],
+        "components": [
+          {
+            "/": "/xero/callback*",
+            "comment": "Xero OAuth callback"
+          }
+        ]
+      }
+    ]
+  }
+}
